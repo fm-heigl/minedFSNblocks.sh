@@ -3,5 +3,5 @@
 
 * * *
 
-### presequisites: jq
+### prerequisites: jq
 https://jqlang.github.io/jq/download/
